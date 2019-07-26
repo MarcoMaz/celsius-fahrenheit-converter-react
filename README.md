@@ -13,8 +13,8 @@
 </ul>
 <h2>Where to find the project...</h2>
 <p>
-Click <a href="https://http://marcomaz.github.io/celsius-fahrenheit-converter/" target="_blank"> here</a>
-or in the image below <br/><br/><a href="https://http://marcomaz.github.io/celsius-fahrenheit-converter/" target="_blank">
+Click <a href="https://marcomaz.github.io/celsius-fahrenheit-converter-react/" target="_blank"> here</a>
+or in the image below <br/><br/><a href="https://marcomaz.github.io/celsius-fahrenheit-converter/" target="_blank">
 <img src="https://www.dropbox.com/s/nqvzftog213o2tr/21-celsius-fahrenheit-converter-REACT.jpg?raw=1">
 </a>
 </p>

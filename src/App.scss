@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Sintony&display=swap');
+
+$dark: #C34C17;
+$light: #B9F5D4;
+
+@mixin flexStyle {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @include flexStyle;
+  background-color: $dark;
+  color: $light;
+  font-family: 'Sintony', sans-serif;
+  font-size: 16px;
+}
+
+#container {
+  @include flexStyle;
+  h1 {
+    width: 100%;
+  }
+  #celsius, #fahrenheit {
+    input {
+      font-size: 1.5em;
+      text-align: center;
+      width: 40%;
+      }
+    }
+  }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  }
+input[type=number] {
+  -moz-appearance: textfield;
+  }
+
+@media (max-width: 400px){
+  body #container{
+    display: inline-block;
+    margin: 50vw auto;
+    }
+  }

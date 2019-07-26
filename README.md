@@ -1,4 +1,4 @@
-<h1>Celsius/Fahrenheit Converter</h1>
+<h1>Celsius/Fahrenheit Converter REACT</h1>
 <h2>Description</h2>
 <p>Personal project of responsive Celsius/Fahrenheit converter built using Html5, Css3, Scss, React hooks, React Context, and React Provider.
 </p>

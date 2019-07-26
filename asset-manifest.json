@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/celsius-fahrenheit-converter-react/static/css/main.7504fc08.chunk.css",
+    "main.js": "/celsius-fahrenheit-converter-react/static/js/main.18e4a015.chunk.js",
+    "main.js.map": "/celsius-fahrenheit-converter-react/static/js/main.18e4a015.chunk.js.map",
+    "runtime~main.js": "/celsius-fahrenheit-converter-react/static/js/runtime~main.1621b8a7.js",
+    "runtime~main.js.map": "/celsius-fahrenheit-converter-react/static/js/runtime~main.1621b8a7.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/celsius-fahrenheit-converter-react/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/celsius-fahrenheit-converter-react/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/celsius-fahrenheit-converter-react/index.html",
+    "precache-manifest.f410e538e965d9111dff7f4b6cf50d48.js": "/celsius-fahrenheit-converter-react/precache-manifest.f410e538e965d9111dff7f4b6cf50d48.js",
+    "service-worker.js": "/celsius-fahrenheit-converter-react/service-worker.js",
+    "static/css/main.7504fc08.chunk.css.map": "/celsius-fahrenheit-converter-react/static/css/main.7504fc08.chunk.css.map"
+  }
+}

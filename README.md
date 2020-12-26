@@ -1,22 +1,17 @@
 <h1>Celsius/Fahrenheit Converter REACT</h1>
 <h2>Description</h2>
-<p>Personal project of a responsive Celsius/Fahrenheit converter built using Html5, Css3, Scss, React hooks, React Context, and React Provider.
+<p>Personal project of a responsive Celsius/Fahrenheit converter.
 </p>
 <h2>Technologies used</h2>
 <ul>
-  <li>Html5</li>
-  <li>Css3</li>
+  <li>React</li>
   <li>Scss</li>
-  <li>React Hooks</li>
   <li>React Context</li>
   <li>React Provider</li>
 </ul>
-<h2>Where to find the project...</h2>
+<h2>Demo</h2>
 <p>
-Click <a href="https://marcomaz.github.io/celsius-fahrenheit-converter-react/" target="_blank"> here</a>
-or in the image below <br/><br/><a href="https://marcomaz.github.io/celsius-fahrenheit-converter-react/" target="_blank">
-<img src="https://www.dropbox.com/s/nqvzftog213o2tr/21-celsius-fahrenheit-converter-REACT.jpg?raw=1">
-</a>
+<a href="https://marcomaz.github.io/celsius-fahrenheit-converter-react/" target="_blank">Here</a>
 </p>
 <h2>User Stories</h2>
 <ul>
